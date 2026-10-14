@@ -53,7 +53,6 @@
 - ♿ **Accessibility Testing:** Evaluating keyboard navigation, accessible interactions, and relevant WCAG guidelines.
 - 👥 **Usability Testing:** Assessing ease of use, navigation, clarity, and overall user experience.
 
-*These are testing areas of interest. Identify which represent hands-on experience and which you are currently learning.*
 
 ---
 
