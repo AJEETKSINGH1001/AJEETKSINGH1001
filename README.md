@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajeet Kumar Singh
 
-### 🚀 Associate Software Test Engineer | Functional & Automation Testing
+### 🚀 Senior Software Test Engineer | Functional & Automation Testing
 
 🔍 Passionate about software quality, test automation, and delivering reliable applications through effective testing strategies.
 
